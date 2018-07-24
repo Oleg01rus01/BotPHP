@@ -5,7 +5,7 @@
 * URL-адрес бота и его маркер.
 */
 
-$access_token = 'ВАШ_МАРКЕР';
+$access_token = '644425603:AAFsR-MIvFsv1hKGM8CVZe1YQSDpTW83LUY';
 
 $api = 'https://api.telegram.org/bot' . $access_token;
 
